@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ModernMT is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://modernmt.com/
+ModernMT provides AI-powered translation services and is transitioning to Lara, a next‑generation translation platform. The company offers API access for text, document, image, and audio translation, supporting over 200 languages and various file formats. Existing ModernMT API keys remain valid until the end of 2026, after which users are encouraged to migrate to Lara for enhanced quality and new features.
+
+**Areas:** Company · AI · Translation · API · Multilingual
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.modernmt.com/)
+- [Documentation](https://developers.laratranslate.com/docs/introduction)
+- [Getting started](https://developers.laratranslate.com/docs/getting-started)
+- [API reference](https://developers.laratranslate.com/docs/translation-api)
+- [Pricing](https://laratranslate.com/pricing)
+- [Support](https://support.laratranslate.com)
+- [Blog](https://blog.modernmt.com/)
+- [Terms of service](https://www.modernmt.com/terms)
+- [Privacy policy](https://www.modernmt.com/privacy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/modernmt/](https://apis.io/providers/modernmt/).
